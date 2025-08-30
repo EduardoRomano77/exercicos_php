@@ -11,7 +11,7 @@ $imagem = "arabe.jpg";
 </head>
 <body>
 
-    <h1>Exibindo imagem com PHP nos atributos</h1>
+    <h1>Exibindo imagem de um arabe</h1>
 
     <img src="<?php echo $imagem; ?>" alt="Imagem dinâmica">
 
